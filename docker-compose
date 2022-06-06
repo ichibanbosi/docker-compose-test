@@ -1,6 +1,17 @@
 ---
-fruits:
-    - Apple
-    - Orange
-    - Mango
----
+#this comment
+- Ivan:
+  name: Ivan
+  job: Developer
+  skills:
+    - Python
+    - Perl
+    - Pascal
+
+- Vasya:
+  name: Vasya
+  job: Deveoper
+  skills:
+    - Lips
+    - Fortran
+    - Cobol
