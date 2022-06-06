@@ -23,7 +23,7 @@ srvices:
   db:
     image: mariadb:10.1
     environment:
-      - MYSQL_ROOT_PASSORD=22222222
+      - MYSQL_ROOT_PASSWORD=22222222
     volumes:
       - ./mysql:/var/lib/mysql
   redis:
